@@ -1,5 +1,5 @@
 <?php
-// This script (botMother bot Blocker) was codded by J33h4n
+// This script (botMother bot Blocker) was codded by J33h4n / JihanaDev
 // This script is not for illegal use
 // Contact me via telegram:  https://t.me/j33h4n
 // Respect Copyright <3 ASk me for permission before you change any part of this script :)
