@@ -1,0 +1,6 @@
+
+----------------------------------------------------------------------------------------------
+include botMother.php file wherever you want to block bots.
+EEEAASY HUH?!
+----------------------------------------------------------------------------------------------
+IN CASE YOU FACED ANY PROBLEM CONTACT ME VIA TELEGRAM : @j33h4n
