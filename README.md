@@ -1,5 +1,5 @@
-# botMother
-Block bots from accessing your page / Antibots
+# botMother - Antibot
+Block bots from accessing your page 
 
 
 This script is not for illegal use
