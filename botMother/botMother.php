@@ -17,11 +17,11 @@ class botMother{
     // public $TEST_MODE                   =   true;
     public $IP_API                      =   "http://ip-api.com/json/";
     public $TEST_MODE_IPS               =   array("::1", "0.0.0.0", "127.0.0.1");
-    public $AGENTS_BLACKLIST_FILE       =   "data/AGENTS.jhn";
-    public $IPS_BLACKLIST_FILE          =   "data/IPS.jhn";
-    public $IPS_RANGE_BLACKLIST_FILE    =   "data/IPS_RANGE.jhn";
-    public $HUMAN_LOGS_FILE             =   "log/human_log.txt";
-    public $BOTS_LOGS_FILE              =   "log/bots_log.txt";
+    public $AGENTS_BLACKLIST_FILE       =   (__DIR__)."/data/AGENTS.jhn";
+    public $IPS_BLACKLIST_FILE          =   (__DIR__)."/data/IPS.jhn";
+    public $IPS_RANGE_BLACKLIST_FILE    =   (__DIR__)."/data/IPS_RANGE.jhn";
+    public $HUMAN_LOGS_FILE             =   (__DIR__)."/log/human_log.txt";
+    public $BOTS_LOGS_FILE              =   (__DIR__)."/log/bots_log.txt";
 
 
     function getTime(){
